@@ -77,7 +77,6 @@ print("Predicted Sentence:", predicted_text)
 - NumPy  
 - Pandas  
 - Matplotlib  
-- Jupyter Notebook/ Google colab  
 
 ## 📊 Results
 ✔️ The model achieves **accurate next-word predictions** based on training data  
