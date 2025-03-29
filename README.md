@@ -1,6 +1,5 @@
 # Next Word Predictor using LSTM
 
-![Next Word Predictor](https://img.shields.io/badge/Next%20Word%20Predictor-LSTM-blue.svg)
 
 ## 📌 Overview
 Next Word Predictor is an **LSTM-based** deep learning model that predicts the next word based on an input sequence. It utilizes **Natural Language Processing (NLP) techniques**, including tokenization, word embedding, and sequence modeling, to generate accurate predictions.
@@ -78,7 +77,7 @@ print("Predicted Sentence:", predicted_text)
 - NumPy  
 - Pandas  
 - Matplotlib  
-- Jupyter Notebook  
+- Jupyter Notebook/ Google colab  
 
 ## 📊 Results
 ✔️ The model achieves **accurate next-word predictions** based on training data  
